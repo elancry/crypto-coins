@@ -87,7 +87,7 @@
 
     function github() {
       $("#github").click(() => {
-        window.open("https://github.com/elancry/elancry"), "_blank";
+        window.open("https://github.com/elancry"), "_blank";
       });
     }
     github();
